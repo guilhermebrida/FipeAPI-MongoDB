@@ -1,0 +1,17 @@
+{
+  "name": "placaapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "mongodb": "^6.9.0",
+    "sinesp-api": "^3.0.0"
+  }
+}
